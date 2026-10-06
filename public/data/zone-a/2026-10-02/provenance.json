@@ -1,0 +1,12 @@
+{
+  "zoneId": "ZONE-A",
+  "acquisitionDate": "2026-10-02T05:18:31Z",
+  "sceneId": "S2A_MSIL2A_20261002T051831_N0500_R019_T43QDA",
+  "cloudCoveragePercent": 0.8,
+  "stacItemUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261002T051831_N0500_R019_T43QDA",
+  "sensor": "Sentinel-2A MSI L2A Surface Reflectance",
+  "ndviFormula": "(NIR - RED) / (NIR + RED) = (B08 - B04) / (B08 + B04)",
+  "codePath": "packages/core/provenance.ts",
+  "artifactSha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+  "description": "Copernicus Sentinel-2 Level-2A surface reflectance canopy corroboration (S_WEIGHT=0, non-punitive)."
+}

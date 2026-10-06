@@ -1,0 +1,6 @@
+{
+  "name": "AquaPulse",
+  "description": "Groundwater verification and allocation system with cryptographic proof ledger, physical drawdown modeling, and human-in-the-loop escrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
